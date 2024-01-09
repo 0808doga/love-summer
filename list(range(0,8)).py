@@ -1,0 +1,1 @@
+[x for x range (1,51) if x%3==0]
