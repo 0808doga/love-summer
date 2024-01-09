@@ -1,2 +1,2 @@
-# hi everyone
-i love swimming
+# Hi everyone
+I love swimming
